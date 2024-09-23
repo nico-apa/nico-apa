@@ -1,7 +1,7 @@
 <h1>Hi, I'm Nico! <br/>
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Graph Data Structure in C</b>
   - My new Project
 
 <h2> 🤳 Connect with me:</h2>
