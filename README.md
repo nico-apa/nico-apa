@@ -1,10 +1,8 @@
 <h1>Hi, I'm Nico! <br/>
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Graph Data Structure in C</b>
-  - My new Project
-
-<h2> 🤳 Connect with me:</h2>
+- <b>GPA Ranking App</b>
+  - 
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
