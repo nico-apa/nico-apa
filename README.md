@@ -3,7 +3,7 @@
 
 - <b>GPA Ranking App</b>
   - - [An app to encourage friendly competition](https://github.com/nico-apa/GPA-Ranking-App/tree/master)
-- <b>Music Production Collaboration Website<\b>
+- <b>Music Production Collaboration Website
   - - [A platform for musicians and artists to create and collaborate](https://github.com/nico-apa/Music-Production-Collaboration-Website/tree/master)
 
 <!--
